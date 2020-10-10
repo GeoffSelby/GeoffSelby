@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/GeoffSelby/GeoffSelby/master/readme_header.png 'Header')](https://geoffcodesthings.com/)
+[![Header](https://raw.githubusercontent.com/GeoffSelby/GeoffSelby/main/readme_header.png 'Header')](https://geoffcodesthings.com/)
 
 # Hey, y'all! 👋
 
